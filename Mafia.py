@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
 # --- BOT CONFIGURATION ---
-TELEGRAM_BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+TELEGRAM_BOT_TOKEN = '7521417050:AAFZgoftQ2xJUb9Y8JK0RAiwtX1veKcGOIc'
 ALLOWED_USER_ID = 1885926472  # Replace with actual user ID
 
 # --- START COMMAND ---
